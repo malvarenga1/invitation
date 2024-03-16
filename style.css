@@ -31,9 +31,10 @@ a{
     text-align: right;
     font-size: medium; 
 }
-.date{
+
+#date{
     text-align: center;
-    font-family: "Dancing Script", cursive;
+    font-family: "Press Start 2P", system-ui;
     font-size: x-large;
     color:#ff0505	
 }
